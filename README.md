@@ -26,13 +26,14 @@ Visualizar os principais KPIs logísticos de forma clara e estratégica, apoiand
 - Canva (criação da tela de fundo personalizada para o dashboard)
 
 ## 📷 Preview
-![Dashboard Preview](Imagem/dashboard-Preview.png)
+![Dashboard Preview](Imagem/Preview.png)
 
 ## 📁 Arquivo
 O arquivo `.pbix` está disponível na pasta `Arquivos/`.
 
 ## 📬 Contato
 Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](http://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a).
+
 
 
 
