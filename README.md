@@ -29,10 +29,11 @@ Visualizar os principais KPIs logísticos de forma clara e estratégica, apoiand
 ![Dashboard Preview](Imagem/Preview.png)
 
 ## 📁 Arquivo
-O arquivo `.pbix` está disponível na pasta `Arquivos/`.
+O arquivo `.pbix` está disponível na pasta `Arquivo/`.
 
 ## 📬 Contato
 Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](http://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a).
+
 
 
 
