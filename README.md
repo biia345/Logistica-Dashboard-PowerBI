@@ -25,17 +25,15 @@ Visualizar os principais KPIs logísticos de forma clara e estratégica, apoiand
 - Visualizações interativas
 - Canva (criação da tela de fundo personalizada para o dashboard)
 
-## 🖼 Visual do projeto
-
-O dashboard foi construído com foco em clareza visual e usabilidade. A tela de fundo foi criada no Canva para destacar os KPIs e facilitar a leitura dos dados.
+## 📷 Preview
+![Dashboard Preview](Imagem/dashboard-Preview.png)
 
 ## 📁 Arquivo
-
 O arquivo `.pbix` está disponível na pasta `Arquivos/`.
 
-## 📞 Contato
+## 📬 Contato
+Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn](http://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a).
 
-Caso queira saber mais ou colaborar, entre em contato pelo [LinkedIn]([https://www.linkedin.com](https://www.linkedin.com/in/ana-beatriz-marques-ferreira-42125121a/)).
 
 
 
